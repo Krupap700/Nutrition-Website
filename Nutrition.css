@@ -1,0 +1,57 @@
+body{
+	background: #eed4fb;
+	font-family: 'Roboto', sans-serif;
+}
+
+
+#mainNavbar .navbar-brand{
+	color:#59197B;
+
+}
+
+#mainNavbar .nav-link:hover{
+	color: #59197B;
+}
+
+#mainNavbar .nav-link{
+	color:white;
+}
+
+#title h1{
+	font-weight: 300;
+	font-size: 2.5rem;
+}
+
+#title span{
+	color:#D42828;
+}
+
+.navbar .scrolled{
+	background: purple;
+}
+
+@media (max-width: 1200px){
+	#title h1{
+	font-weight: 200;
+	font-size: 1.9rem;
+}
+}
+
+.practice h2{
+	color:#59197B;
+	font-weight:100;
+	font-size:2rem;
+	font-family: 'Dancing Script', cursive;
+
+}
+
+.practice p{
+	color:#8A30BA;
+	font-weight:100;
+	font-size:1rem;
+	line-height:2.0;
+}
+
+.space{
+	margin-top:100px;
+}
