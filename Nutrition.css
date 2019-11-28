@@ -3,14 +3,16 @@ body{
 	font-family: 'Roboto', sans-serif;
 }
 
+#mainNavbar{
+	background: #59197B;
+}
 
 #mainNavbar .navbar-brand{
-	color:#59197B;
-
+	color:white;
 }
 
 #mainNavbar .nav-link:hover{
-	color: #59197B;
+	color: rgb(13, 170, 8);
 }
 
 #mainNavbar .nav-link{
